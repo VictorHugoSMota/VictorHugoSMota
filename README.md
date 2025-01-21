@@ -12,12 +12,13 @@
 </div><br/>
 
 <br/>
-Muito Prazer! Tenho 19 anos e sou de Luziânia, Goiás. Estou cursando Sistemas de Informação na UNIDES (GO). Fascinado por tecnologia, sempre busco aprender e evoluir, enfrentando desafios com criatividade e dedicação.
 
-Atualmente, estou aprimorando meu inglês, que está em um nível básico/intermediário, para melhorar minha comunicação global e expandir minhas oportunidades profissionais. Adoro transformar ideias em resultados e acredito no poder da colaboração para alcançar grandes conquistas.
+#### Muito Prazer! Tenho 19 anos e sou de Luziânia, Goiás. Estou cursando Sistemas de Informação na UNIDES (GO). Fascinado por tecnologia, sempre busco aprender e evoluir, enfrentando desafios com criatividade e dedicação.
+
+#### Atualmente, estou aprimorando meu inglês, que está em um nível básico/intermediário, para melhorar minha comunicação global e expandir minhas oportunidades profissionais. Adoro transformar ideias em resultados e acredito no poder da colaboração para alcançar grandes conquistas.
 <br/>
 <br/>
 
-### Informações para Contato ☎️
+## Informações para Contato ☎️
 * 📱 (61) 9 96755169
 * 📧 victorhugo.smota@gmail.com
