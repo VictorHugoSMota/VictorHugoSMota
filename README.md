@@ -1,27 +1,84 @@
-## Olá, seja Bem-Vindo(a) Sou o Victor Hugo Mota💻
+# 🧑🏻‍💻 Victor Hugo Mota!
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-saavedra-mota-a8a79b289/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorhugomt__/)
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561996755169)
-
-## Tecnologias do dia a dia 👨🏻‍💻
-<div stryle="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-</div><br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoSMota&layout=compact)
-<br/>
+`Software Developer`
 
 #### Muito Prazer! Tenho 19 anos e sou de Luziânia, Goiás. Estou cursando Sistemas de Informação na UNIDES (GO). Fascinado por tecnologia, sempre busco aprender e evoluir, enfrentando desafios com criatividade e dedicação.
 
 #### Atualmente, estou aprimorando meu inglês, que está em um nível básico/intermediário, para melhorar minha comunicação global e expandir minhas oportunidades profissionais. Adoro transformar ideias em resultados e acredito no poder da colaboração para alcançar grandes conquistas.
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-saavedra-mota-a8a79b289/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorhugomt__/)
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561996755169)
+##
+
+### 🤖 Linguagens e Tecnologias 
+<img
+  align="left"
+  alt="html"
+  title="html"
+  width="35px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+  />
+  
+<img
+  align="left"
+  alt="css"
+  title="css"
+  width="35px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+  />
+<img
+  align="left"
+  alt="javascript"
+  title="javascript"
+  width="35px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+  />
+  
+<img
+  align="left"
+  alt="python"
+  title="python"
+  width="35px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+  />
+  
+<img
+  align="left"
+  alt="Vscode"
+  title="Vscode"
+  width="35px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+  />
+  
+<img
+  align="left"
+  alt="github"
+  title="github"
+  width="35px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg"
+  />
+  
+<img
+  align="left"
+  alt="git"
+  title="git"
+  width="35px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
 <br/>
+<br/>
+##
 
-## Informações para Contato ☎️
-* 📧 victorhugo.smota@gmail.com
-
+### 🖥️ Estatísticas
+<img
+  align="left"
+  alt="Github Stats"
+  heigth="padding-rigth=10px;"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoSMota&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
