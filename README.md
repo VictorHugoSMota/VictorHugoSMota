@@ -76,11 +76,3 @@
 <br/>
 <br/>
 ##
-
-### 🖥️ Estatísticas
-<img
-  align="left"
-  alt="Github Stats"
-  heigth="padding-rigth=10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoSMota&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
