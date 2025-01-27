@@ -9,8 +9,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhugosaavedramota)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorhugomt__/)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561996755169)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorhugo.smota@gmail.com?subject=Contato&body=Oi%20Victor,%20quero%20falar%20com%20você!
-)
+[![Gmail](https://img.shields.io/badge/-victorhugo.smota@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:victorhugo.smota@gmail.com)](mailto:victorhugo.smota@gmail.com)
 ##
 
 ### 🤖 Linguagens e Tecnologias 
