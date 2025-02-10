@@ -2,7 +2,7 @@
 
 `Software Developer`
 
-#### Muito Prazer! Tenho 19 anos e sou de Brasília, Distrito Federal. Estou cursando Sistemas de Informação na UNIDESC (GO). Fascinado por tecnologia, sempre busco aprender e evoluir, enfrentando desafios com criatividade e dedicação.
+#### Muito Prazer! Tenho 19 anos e sou de Brasília, Distrito Federal. Estou cursando Sistemas de Informação na UNIDESC (GO). Fascinado por tecnologia, sempre busco aprender e evoluir, enfrentando desafios com criatividade e dedicação!
 
 #### Atualmente, estou aprimorando meu inglês, que está em um nível básico/intermediário, para melhorar minha comunicação global e expandir minhas oportunidades profissionais. Adoro transformar ideias em resultados e acredito no poder da colaboração para alcançar grandes conquistas.
 
