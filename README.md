@@ -12,6 +12,7 @@
 [![Gmail](https://img.shields.io/badge/-victorhugo.smota@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:victorhugo.smota@gmail.com)](mailto:victorhugo.smota@gmail.com)
 ##
 
+
 ### 🤖 Linguagens e Tecnologias 
 <img
   align="left"
