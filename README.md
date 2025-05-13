@@ -13,7 +13,7 @@
 ##
 
 
-### 🤖 Linguagens e Tecnologias 
+### 💻 Linguagens 
 <img
   align="left"
   alt="html"
@@ -23,7 +23,7 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
   />
   
-  
+
 <img
   align="left"
   alt="css"
@@ -32,6 +32,7 @@
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
   />
+  
 <img
   align="left"
   alt="javascript"
@@ -57,8 +58,10 @@
   width="35px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-  />
-  
+  /></br></br>
+  ##
+
+### 🤖 Tecnologias
 <img
   align="left"
   alt="Vscode"
