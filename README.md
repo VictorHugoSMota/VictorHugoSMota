@@ -45,7 +45,7 @@
   <img
   align="left"
   alt="java"
-  title="javascript"
+  title="Java"
   width="35px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
