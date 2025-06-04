@@ -80,8 +80,8 @@
   
   <img
   align="left"
-  alt="Vscode"
-  title="Vscode"
+  alt="intellij"
+  title="intellij"
   width="35px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
   />
