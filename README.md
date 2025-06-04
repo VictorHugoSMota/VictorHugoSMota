@@ -76,6 +76,16 @@
   width="35px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
   />
+
+  
+  <img
+  align="left"
+  alt="Vscode"
+  title="Vscode"
+  width="35px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+  />
+          
   
 <img
   align="left"
