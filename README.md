@@ -21,100 +21,11 @@
 
 
 ### 💻 Linguagens 
-<img
-  align="left"
-  alt="html"
-  title="html"
-  width="35px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-  />
-  
-
-<img
-  align="left"
-  alt="css"
-  title="css"
-  width="35px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-  />
-  
-<img
-  align="left"
-  alt="javascript"
-  title="javascript"
-  width="35px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-  />
-
-  <img
-  align="left"
-  alt="java"
-  title="Java"
-  width="35px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-  />
-  
-<img
-  align="left"
-  alt="python"
-  title="python"
-  width="35px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-  /></br></br>
-  ##
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python)](https://skillicons.dev)
 
 ### 🤖 Tecnologias
-<img
-  align="left"
-  alt="Vscode"
-  title="Vscode"
-  width="35px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-  />
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,github,git,figma&theme=light)](https://skillicons.dev)
 
-  
-  <img
-  align="left"
-  alt="intellij"
-  title="intellij"
-  width="35px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
-  />
-          
-  
-<img
-  align="left"
-  alt="github"
-  title="github"
-  width="35px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg"
-  />
-  
-<img
-  align="left"
-  alt="git"
-  title="git"
-  width="35px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-
-
-<img
-  align="left"
-  alt="Figma"
-  title="git"
-  width="35px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-/>
-<br/>
-
-<br>
 <br>
 
   <img
