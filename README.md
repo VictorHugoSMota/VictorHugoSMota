@@ -7,7 +7,7 @@
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561996755169)
 [![Gmail](https://img.shields.io/badge/-victorhugo.smota@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:victorhugo.smota@gmail.com)](mailto:victorhugo.smota@gmail.com)
 
-#### Muito Prazer! Tenho 19 anos e sou de Brasília, Distrito Federal. Estou cursando Sistemas de Informação na UNIDESC (GO). Fascinado por tecnologia, sempre busco aprender e evoluir, enfrentando desafios com criatividade e dedicação!
+#### Muito Prazer! Tenho 20 anos e sou de Brasília, Distrito Federal. Estou cursando Sistemas de Informação na UNIDESC (GO). Fascinado por tecnologia, sempre busco aprender e evoluir, enfrentando desafios com criatividade e dedicação!
 
 #### Atualmente, estou aprimorando meu inglês, que está em um nível básico/intermediário, para melhorar minha comunicação global e expandir minhas oportunidades profissionais. Adoro transformar ideias em resultados e acredito no poder da colaboração para alcançar grandes conquistas.
 
