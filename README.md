@@ -21,7 +21,7 @@
 
 
 ### 💻 Linguagens 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql)](https://skillicons.dev)
 
 ### 🤖 Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,github,git,figma&theme=light)](https://skillicons.dev)
