@@ -2,10 +2,10 @@
 
 `Software Developer`
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhugosaavedramota)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorhugomt__/)
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561996755169)
-[![Gmail](https://img.shields.io/badge/-victorhugo.smota@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:victorhugo.smota@gmail.com)](mailto:victorhugo.smota@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhugosaavedramota) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorhugomt__/) 
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561996755169) 
+[![Gmail](https://img.shields.io/badge/-victorhugo.smota@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:victorhugo.smota@gmail.com)](mailto:victorhugo.smota@gmail.com) 
 
 #### Muito Prazer! Tenho 20 anos e sou de Brasília, Distrito Federal. Estou cursando Sistemas de Informação na UNIDESC (GO). Fascinado por tecnologia, sempre busco aprender e evoluir, enfrentando desafios com criatividade e dedicação!
 
