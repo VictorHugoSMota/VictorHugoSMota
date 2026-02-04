@@ -21,13 +21,9 @@
 
 
 ### 💻 Linguagens 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,cs,mysql)](https://skillicons.dev)
 
 ### 🤖 Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,github,git,figma&theme=light)](https://skillicons.dev)
 
 <br>
-
-  <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoSMota&layout=compact&theme=dark&custom_title=Linguagens%20Mais%20Usadas"
-/>
