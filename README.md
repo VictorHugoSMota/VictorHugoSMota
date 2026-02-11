@@ -13,7 +13,7 @@
 
 ##
 
-#### Nice to meet you! I am 19 years old and I am from Brasília, Federal District. I am studying Information Systems at UNIDESC (GO). Fascinated by technology, I always seek to learn and evolve, facing challenges with creativity and dedication!
+#### Nice to meet you! I am 20 years old and I am from Brasília, Federal District. I am studying Information Systems at UNIDESC (GO). Fascinated by technology, I always seek to learn and evolve, facing challenges with creativity and dedication!
 
 #### Currently, I am improving my English, which is at a basic/intermediate level, to enhance my global communication and expand my professional opportunities. I love turning ideas into results and believe in the power of collaboration to achieve great accomplishments.
 
