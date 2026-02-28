@@ -7,15 +7,9 @@
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561996755169) 
 [![Gmail](https://img.shields.io/badge/-victorhugo.smota@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:victorhugo.smota@gmail.com)](mailto:victorhugo.smota@gmail.com) 
 
-#### Muito Prazer! Tenho 20 anos e sou de Brasília, Distrito Federal. Estou cursando Sistemas de Informação na UNIDESC (GO). Fascinado por tecnologia, sempre busco aprender e evoluir, enfrentando desafios com criatividade e dedicação!
+#### Hi! I'm a 20-year-old Information Systems student from Brasília, Brazil. I’m passionate about technology and constantly focused on growth, discipline, and building real skills. I enjoy solving problems, understanding how systems work behind the scenes, and transforming ideas into practical solutions. Challenges motivate me because they push me to evolve both technically and personally.
 
-#### Atualmente, estou aprimorando meu inglês, que está em um nível básico/intermediário, para melhorar minha comunicação global e expandir minhas oportunidades profissionais. Adoro transformar ideias em resultados e acredito no poder da colaboração para alcançar grandes conquistas.
-
-##
-
-#### Nice to meet you! I am 20 years old and I am from Brasília, Federal District. I am studying Information Systems at UNIDESC (GO). Fascinated by technology, I always seek to learn and evolve, facing challenges with creativity and dedication!
-
-#### Currently, I am improving my English, which is at a basic/intermediate level, to enhance my global communication and expand my professional opportunities. I love turning ideas into results and believe in the power of collaboration to achieve great accomplishments.
+#### My main focus is backend development, especially with Java and Object-Oriented Programming. I also study HTML, CSS, JavaScript, and React for front-end development, along with database concepts and system architecture fundamentals. I’m continuously improving my English to expand my global communication and professional opportunities, always aiming to become a well-rounded and impactful software developer.
 
 ##
 
