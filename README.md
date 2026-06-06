@@ -14,8 +14,11 @@
 ##
 
 
-### 🖥️ Technologies & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,spring,cs&theme=light)](https://skillicons.dev)
+### 🖥️ Backend Development
+[![My Skills](https://skillicons.dev/icons?i=java,spring&theme=light)](https://skillicons.dev)
+
+### 🎨 Frontend Development
+[![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=light)](https://skillicons.dev)
 
 ### ⛃ Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=light)](https://skillicons.dev)
