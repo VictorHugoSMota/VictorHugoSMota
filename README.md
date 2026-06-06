@@ -14,13 +14,13 @@
 ##
 
 
-### 💻 Technologies & Frameworks
+### 🖥️ Technologies & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,spring,cs&theme=light)](https://skillicons.dev)
 
-### 💻 Database
+### ⛃ Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=light)](https://skillicons.dev)
 
-### 🤖 Tools
+### 🛠️ Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,github,git,postman&theme=light)](https://skillicons.dev)
 
 #### 🤖 Future studies
