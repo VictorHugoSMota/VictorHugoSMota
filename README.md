@@ -21,7 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=light)](https://skillicons.dev)
 
 ### ⛃ Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql&theme=light)](https://skillicons.dev)
 
 ### 🛠️ Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,github,git,postman&theme=light)](https://skillicons.dev)
