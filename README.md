@@ -12,7 +12,7 @@
 
 #### My main focus is Backend Development with Java and Spring Boot, where I develop robust web applications following Object-Oriented Programming principles and software engineering best practices. I have experience building RESTful APIs, implementing authentication and authorization with Spring Security, handling password encryption with BCrypt, managing data persistence with JPA/Hibernate, and working with relational databases like MySQL and PostgreSQL through layered architecture patterns. I also use Git and GitHub with Conventional Commits for version control, API testing, and database modeling.
 
-#### In addition, I have foundational knowledge of HTML, CSS, JavaScript, and React, which allows me to understand the complete development lifecycle and collaborate effectively on full-stack projects. Currently, I am expanding my skills in Docker, software architecture, design patterns, and scalable application development, while continuously improving my English and preparing for a solid career as a software engineer.
+#### In addition, I have foundational knowledge of HTML, CSS, e JavaScript, which allows me to understand the complete development lifecycle and collaborate effectively on full-stack projects. Currently, I am expanding my skills in Docker, software architecture, design patterns, and scalable application development, while continuously improving my English and preparing for a solid career as a software engineer.
 
 ##
 
