@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/-victorhugo.smota@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:victorhugo.smota@gmail.com)](mailto:victorhugo.smota@gmail.com) 
 
 
-#### Hi! I'm a 20-year-old Information Systems student from Brasília, Brazil. I’m passionate about technology and constantly focused on growth, discipline, and building real skills. I enjoy solving problems, understanding how systems work behind the scenes, and transforming ideas into practical solutions. Challenges motivate me because they push me to evolve both technically and personally.
+#### Hi! I'm a 20-year-old Computer Science student from Brasília, Brazil. I’m passionate about technology and constantly focused on growth, discipline, and building real skills. I enjoy solving problems, understanding how systems work behind the scenes, and transforming ideas into practical solutions. Challenges motivate me because they push me to evolve both technically and personally.
 
 #### My main focus is Backend Development with Java and Spring Boot, where I develop robust web applications following Object-Oriented Programming principles and software engineering best practices. I have experience building RESTful APIs, implementing authentication and authorization with Spring Security, handling password encryption with BCrypt, managing data persistence with JPA/Hibernate, and working with relational databases like MySQL and PostgreSQL through layered architecture patterns. I also use Git and GitHub with Conventional Commits for version control, API testing, and database modeling.
 
